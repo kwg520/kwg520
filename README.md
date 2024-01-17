@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwg520
 - 👀 I’m interested in Android/Java/C,C++
-- 🌱 I’m currently learning OpenGL
+- 🌱 I’m currently learning OpenGL，Rust,Flutter
 - 💞️ I’m looking to collaborate on Study and creation of value
 
 - 📫 How to reach me 1020296242@qq.com
